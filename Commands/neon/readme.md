@@ -5,4 +5,4 @@ Manage Neon Postgres
 ## Subgroups
 
 - [postgres](/Commands/neon/postgres/readme.md)
-: Manage Neon Postgres
+: Manage Neon Postgres databases and related resources within Azure.
